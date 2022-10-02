@@ -1,1 +1,2 @@
-# Challenge1
+# BabiesFirstWebsite
+- I changed all the divs to semantic html for better accessibility and readability, made alt images for back up, made links work and compiled css for better accessibility and readability.
